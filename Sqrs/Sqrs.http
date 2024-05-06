@@ -1,0 +1,6 @@
+@Sqrs_HostAddress = http://localhost:5246
+
+GET {{Sqrs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
